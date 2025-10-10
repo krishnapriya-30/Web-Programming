@@ -1,0 +1,45 @@
+<html>
+<body>
+<form>
+<label>Name</label>
+<input type="text" name="first_name">
+</br></br>
+<label>Password</label>
+<input type="password" name="pass">
+</br></br>
+<label>Mobile Number</label>
+<input type="text" name="mobile" maxlength="10">
+</br></br>
+<label>Address</label>
+<br>
+<textarea id="fullAddress"  name="address"" rows="5" cols="40"></textarea><br><br>
+</br>
+<label for="dob">Date of Birth:</label>
+<input type="date" id="dob" name="date_of_birth">
+<br><br>
+<label>Email</label>
+<input type="text" name="gmail">
+</br></br>
+<label>Nationality</label>
+<input typr="text" name="nation">
+</br></br>
+<label>Gender:</label><br>
+  <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label>
+  <input type="radio" id="female" name="gender" value="female">
+  <label for="female">Female</label>
+  <input type="radio" id="other" name="gender" value="other">
+  <label for="other">Other</label><br><br>
+<label for="language-known">Select a language you know:</label>
+  <select name="language-known" id="language-known">
+    <option value="en">English</option>
+    <option value="ml">Malayalam</option>
+    <option value="hd">Hindi</option>
+    <option value="other">Other</option>
+  </select>
+  <br><br>
+<input type="button" value="Submit">
+</br></br>
+</form>
+</body>
+</html>
