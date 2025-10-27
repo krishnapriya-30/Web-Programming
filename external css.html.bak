@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>CSS</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1><center><u>EXTERNAL CSS IN HTML</h1></u></center>
+<p>External CSS involves placing CSS rules in a separate file with a .css extension and linking it to an HTML document. 
+This method promotes code organization, reusability, and easier maintenance for web projects</p>
+<h2><u>TYPES OF CSS</h2></u>
+<ul>
+<li>In-line css</li>
+<li>Internal css</li>
+<li>External css</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>RegNo</th>
+<th>Name</th>
+<th>Marks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1234</td>
+<td>Nia</td>
+<td>98</td>
+</tr>
+<tr>
+<td>4343</td>
+<td>Lee</td>
+<td>95</td>
+</tr>
+<tr>
+<td>3663</td>
+<td>Zia</td>
+<td>88</td>
+</tr>
+<tr>
+<td>1122</td>
+<td>Ria</td>
+<td>78</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
+
+

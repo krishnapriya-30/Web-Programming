@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>CSS</title>
+</head>
+<body style="background-color: powderblue;">
+<center>
+<h1 style="color:white; font-style:italic;"><u>WHALES</h1></u>
+</center>
+<p style="color: blue; font-family:sans-serif; font-size: 20px;">Whales roam throughout all of the world's oceans, 
+communicating with complex and mysterious sounds. 
+Their sheer size amazes us: the blue whale can reach lengths of more than 100 feet and weigh up to 200 ton as much as 33 elephants.</p>
+<h2 style="color:white; font-style:italic;"><u>TYPES OF WHALES</h2></u>
+<ul>
+<li style="font-weight:bold; color:blue;">Humpback whale</li>
+<li style="font-weight:bold; color:blue;">Blue whale</li>
+<li style="font-weight:bold; color:blue;">Beluga whale</li>
+<li style="font-weight:bold; color:blue;">Pilot whale</li>
+</ul>
+</body>
+</html>
+
+
